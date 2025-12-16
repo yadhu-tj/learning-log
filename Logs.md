@@ -15,3 +15,14 @@
 - Started DSA using C/C++.
 
 **Day two Completed ✅**
+
+
+# Day 3:(Dec 16, 2025)
+
+- Third day of log entry.
+- I have started Java, and php. Both feels some kinda ok....
+- TCP/IP Computer Network also Started .
+- DSA is the hardest among all.
+- For all these days i'm still doing the ARTBAY Project also....
+
+**Day three Completed ✅**
