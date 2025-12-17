@@ -26,3 +26,10 @@
 - For all these days i'm still doing the ARTBAY Project also....
 
 **Day three Completed ✅**
+
+# Day 4:(Dec 17, 2025)
+
+- Fourth day of log entry.
+- Nothing else. Just like every CS Student DSA is eating me alive
+
+**Day four Completed ✅**
