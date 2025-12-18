@@ -33,3 +33,12 @@
 - Nothing else. Just like every CS Student DSA is eating me alive
 
 **Day four Completed ✅**
+
+# Day 5:(Dec 18, 2025)
+
+- Fifth day of log entry.
+- Basics for Java and PHP are completed. Moving to complex topics
+- Stack started for DSA. Hard to follow....
+- Big data / Data mining with computer Networks TCP/IP are now main theory subject for this SEM
+
+**Day five Completed ✅**
