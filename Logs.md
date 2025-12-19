@@ -42,3 +42,12 @@
 - Big data / Data mining with computer Networks TCP/IP are now main theory subject for this SEM
 
 **Day five Completed ✅**
+
+# Day 6:(Dec 19, 2025)
+
+- Sixth day of log entry.
+- Several algorith for DSA has been compeleted.
+- Operational Research with LPP solving Problems there 
+- Registered for a new internship in AICTEE.
+
+**Day six Completed ✅**
