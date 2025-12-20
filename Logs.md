@@ -51,3 +51,11 @@
 - Registered for a new internship in AICTEE.
 
 **Day six Completed ✅**
+
+# Day 7:(Dec 20, 2025)
+
+- Didn't do much today. This was my Cheat day....
+- Played Farcry 6 Mostly....
+- Refactored some codes on my ART-BAY Project
+
+**Day seven Completed ✅**
