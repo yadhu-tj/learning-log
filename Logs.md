@@ -59,3 +59,11 @@
 - Refactored some codes on my ART-BAY Project
 
 **Day seven Completed ✅**
+
+# Day 8:(Dec 22, 2025)
+
+- Had a bad flu..
+- Looked mostly on PHP programming
+- Still refactoring my ART-BAY Project
+
+**Day Eight Completed ✅**
