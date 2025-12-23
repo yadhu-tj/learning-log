@@ -67,3 +67,10 @@
 - Still refactoring my ART-BAY Project
 
 **Day Eight Completed ✅**
+
+
+# Day 9:(Dec 23, 2025)
+
+- Found a major bug on ART-BAY Project. Correcting it.
+
+**Day Nine Completed ✅**
