@@ -67,3 +67,12 @@
 - Still refactoring my ART-BAY Project
 
 **Day Eight Completed ✅**
+
+
+# Day 9:(Dec 24, 2025)
+
+- Looked at some core DSA today.
+- Found a major bug in my ART-BAY Project.
+- Fixed it.
+
+**Day Nine Completed ✅**
