@@ -76,3 +76,13 @@
 - Fixed it.
 
 **Day Nine Completed ✅**
+
+
+# Day 10:(Dec 25, 2025)
+
+- Day 10. Well actually not day 10. Missed some days. But i feel consistent.
+- Still working on ART-BAY.
+- React projects are really intriguing me. 
+- Might start one really soon.....
+
+**Day Nine Completed ✅**
