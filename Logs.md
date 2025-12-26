@@ -86,3 +86,13 @@
 - Might start one really soon.....
 
 **Day Ten Completed ✅**
+
+
+# Day 11:(Dec 26, 2025)
+
+
+- ART-BAY Project is still in progress.
+- Nothing else.
+- This was a bad Day. 
+
+**Day Eleven Completed ✅**
