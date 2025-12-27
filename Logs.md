@@ -96,3 +96,14 @@
 - This was a bad Day. 
 
 **Day Eleven Completed ✅**
+
+
+# Day 12:(Dec 27, 2025)
+
+- Had a major css conflict in the ART-BAY Project for a long time. Decided to fix it....
+- I struggled to fix it so many times but could not fix it . I Used AI this time. 
+- It was actually fun 😂. Bro litreally struggled for css conflicts...
+- But atlast fixed it.
+- DSA is starting tommorow again or else im gonna get cooked....
+
+**Day Twelve Completed ✅**
