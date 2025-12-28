@@ -107,3 +107,13 @@
 - DSA is starting tommorow again or else im gonna get cooked....
 
 **Day Twelve Completed ✅**
+
+
+# Day 13:(Dec 28, 2025)
+
+- Might implement the new features for ART-BAY Project.
+- Perfecting the existing features of the ART-BAY Project.
+- Multiple bugs and issues has been resolved
+- Looked at DSA. There is an assignment for it. Will be focusing on it more tommorow
+
+**Day Thirteen Completed ✅**
