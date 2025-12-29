@@ -117,3 +117,12 @@
 - Looked at DSA. There is an assignment for it. Will be focusing on it more tommorow
 
 **Day Thirteen Completed ✅**
+
+
+# Day 14:(Dec 29, 2025)
+
+- Implementation of the new features for ART-BAY Project are progressing..
+-At the same time perfecting the existing features of the ART-BAY Project.
+- DSA assignment is Polynomial addition in array. Getting a hang of it
+
+**Day Fourteen Completed ✅**
