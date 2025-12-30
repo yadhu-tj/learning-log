@@ -126,3 +126,13 @@
 - DSA assignment is Polynomial addition in array. Getting a hang of it
 
 **Day Fourteen Completed ✅**
+
+
+# Day 15:(Dec 30, 2025)
+
+- Shit. Was working on the ART-BAY Project for a long time and i forgot the time. So actually i'm writing this on 31st December 2025.
+- But, its alright...
+- Tommorow is going to be a New year.
+- I hope it would be a good year for me.....
+
+**Day Fifteen Completed ✅**
