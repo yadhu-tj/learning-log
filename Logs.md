@@ -143,3 +143,11 @@
 - I hope this is a Good year for me.....
 
 **Day Sixteen Completed ✅**
+
+# Day 17:(Jan 2, 2026)
+
+- Still on ARTBAY
+- Done assignments on DSA.. 
+- Getting a hang of it
+
+**Day Seventeen Completed ✅**
