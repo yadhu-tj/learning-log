@@ -151,3 +151,10 @@
 - Getting a hang of it
 
 **Day Seventeen Completed ✅**
+
+# Day 18:(Jan 3, 2026)
+
+- Major features of the ARTBAY Project are almost done.
+- Other than that did absolutly nothing.
+
+**Day Eighteen Completed ✅**
