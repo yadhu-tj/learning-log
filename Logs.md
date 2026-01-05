@@ -166,4 +166,16 @@
 - Moving on to new projects.
 - Did my study on DSA today
 
-**Day nineteen Completed ✅**
+**Day Nineteen Completed ✅**
+
+# Day 20:(Jan 5, 2026)
+
+- Well class was as shit as i remembered.
+- Not a great day but not a bad day either.
+- Saw my old Bca mini project on my pc today.
+- Funny how it looks and seeing that i have come from there to currently here.
+- Well i pushed my code to my github just for a reminder.... After all it was fun working in that😂.
+- Did some work on that as well as my artbay.
+- Class is getting hard per day. Need to lock on from now on....
+
+**Day Twenty Completed ✅**
