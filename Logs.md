@@ -200,3 +200,12 @@
 - Looking forward on it....
 
 **Day Twenty two Completed ✅**
+
+
+# Day 23:(Jan 8, 2026)
+
+- Todays git might also be less because im planning for a new project.
+- The thing is i had an exam and there was a question where when a python statement does not have a return value what does it return. I thought i knew this kinda stuff but i didnt know the answer for that. So i want to do something about this and im planning on making project based on this case.
+- There is plan going on but for github i dont have that much to give so the commit is going to be less.
+
+**Day Twenty three Completed ✅**
