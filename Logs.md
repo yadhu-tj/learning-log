@@ -209,3 +209,12 @@
 - There is plan going on but for github i dont have that much to give so the commit is going to be less.
 
 **Day Twenty three Completed ✅**
+
+
+# Day 24:(Jan 9, 2026)
+
+- Note much of coding cause I don't have my lap. I'm at a place and coding for these days would be really bad...
+- Gonna make up for these days
+
+
+**Day Twenty four Completed ✅**
