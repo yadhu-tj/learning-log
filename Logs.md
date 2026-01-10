@@ -213,8 +213,18 @@
 
 # Day 24:(Jan 9, 2026)
 
-- Note much of coding cause I don't have my lap. I'm at a place and coding for these days would be really bad...
+- Not much of coding cause I don't have my lap. I'm at a place and coding for these days would be really bad...
 - Gonna make up for these days
 
 
 **Day Twenty four Completed ✅**
+
+
+# Day 25:(Jan 10, 2026)
+
+- Still no coding. Cause I don't have lap.
+- Maybe Sunday I would start the Works for the new Project
+- Situation is kinda messed up....
+
+
+**Day Twenty five Completed ✅**
