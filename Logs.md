@@ -211,10 +211,29 @@
 **Day Twenty three Completed ✅**
 
 
-# Day 24:(Jan 11, 2026)
+# Day 24:(Jan 9, 2026)
+
+- Not much of coding cause I don't have my lap. I'm at a place and coding for these days would be really bad...
+- Gonna make up for these days
+
+
+**Day Twenty four Completed ✅**
+
+
+# Day 25:(Jan 10, 2026)
+
+- Still no coding. Cause I don't have lap.
+- Maybe Sunday I would start the Works for the new Project
+- Situation is kinda messed up....
+
+
+**Day Twenty five Completed ✅**
+
+
+# Day 26:(Jan 11, 2026)
 
 - Started the new project
 - Logiker... I know shit name.
 - This one i dont care how much time it takes. im gonna write every single thing with full understanding of the code.
 
-**Day Twenty four Completed ✅**
+**Day Twenty six Completed ✅**
