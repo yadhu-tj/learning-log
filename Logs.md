@@ -209,3 +209,12 @@
 - There is plan going on but for github i dont have that much to give so the commit is going to be less.
 
 **Day Twenty three Completed ✅**
+
+
+# Day 24:(Jan 11, 2026)
+
+- Started the new project
+- Logiker... I know shit name.
+- This one i dont care how much time it takes. im gonna write every single thing with full understanding of the code.
+
+**Day Twenty four Completed ✅**
