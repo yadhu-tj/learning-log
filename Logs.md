@@ -238,11 +238,28 @@
 
 **Day Twenty six Completed ✅**
 
+# Day 27:(Jan 12, 2026)
+
+- Had gone to the ai work shop and expo.
+- Still maintaining streak.
+- (This is a recommit. i accidently deleted this days one. So redoing it/ )
+
+**Day Twenty eight Completed ✅**
+
 
 
 # Day 28:(Jan 13, 2026)
 
 - No coding for today also.
 - Still maintaining Streak....
+
+**Day Twenty eight Completed ✅**
+
+# Day 29:(Jan 14, 2026)
+
+- Learned about the parameter passing.
+- Small things one at a time.
+- So i dont have that much commit.
+- Will get better on the comming days
 
 **Day Twenty eight Completed ✅**
